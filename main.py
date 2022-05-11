@@ -1,6 +1,7 @@
 import pandas
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
 
 
 def separate_man_woman(df: pandas.DataFrame):
@@ -64,7 +65,21 @@ def main():
     for header in ["Nations", "Athletes", "Events", "Men", "Women", "Sports", "Disciplines"]:
         df[header] = pd.to_numeric(df[header], errors="coerce")
     df = df.convert_dtypes(infer_objects=True)
-    print(df.dtypes)
+    # write to csv
+    df.to_csv("olympic.csv", index=False)
+    plt.figure(figsize=(11, 7), dpi=100)
+    summer_years, summer_athletes = df[df["Kind"] == "Summer"]["Year"], df[df["Kind"] == "Summer"]["Athletes"]
+    winter_years, winter_athletes = df[df["Kind"] == "Winter"]["Year"], df[df["Kind"] == "Winter"]["Athletes"]
+    plt.plot(summer_years, summer_athletes, "r-", winter_years, winter_athletes, "b-",
+             summer_years, summer_athletes, "ro", winter_years, winter_athletes, "bo",
+             linewidth=2,)
+    plt.legend(["Summer Olympics", "Winter Olympics"])
+    plt.title("Number of athletes for every Olympic")
+    plt.xlabel("Years")
+    plt.ylabel("Athletes")
+    plt.xticks(range(min(df["Year"]), max(df["Year"]) + 1, 2), rotation="vertical")
+    plt.grid()
+    plt.show()
 
 
 if __name__ == "__main__":

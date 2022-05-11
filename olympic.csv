@@ -1,0 +1,54 @@
+Year,Kind,Host city,Nations,Athletes,Events,Opening,Closing,Stadium,Men,Women,Sports,Disciplines
+1896,Summer,"Athens, Greece",14,241,43,1896-04-06 00:00:00,1896-04-15 00:00:00,Panathenaic Stadium,241,0,9,
+1900,Summer,"Paris, France",28,997,95,1900-05-14 00:00:00,1900-10-28 00:00:00,Vélodrome de Vincennes,975,22,19,
+1904,Summer,"St. Louis, United States",12,651,95,1904-07-01 00:00:00,1904-11-23 00:00:00,Washington University in St. Louis Francis Field,645,6,16,17
+1908,Summer,"London, United Kingdom",22,2008,110,1908-04-27 00:00:00,1908-10-31 00:00:00,White City Stadium,1971,37,22,24
+1912,Summer,"Stockholm, Sweden",28,2406,102,1912-07-06 00:00:00,1912-07-22 00:00:00,Stockholms Olympiastadion,2359,47,14,18
+1920,Summer,"Antwerp, Belgium",29,2626,156,1920-08-14 00:00:00,1920-09-12 00:00:00,Olympisch Stadion,2561,65,22,29
+1924,Summer,"Paris, France",44,3089,126,1924-07-05 00:00:00,1924-07-27 00:00:00,Stade Olympique Yves-du-Manoir,2954,135,17,23
+1928,Summer,"Amsterdam, Netherlands",46,2883,109,1928-07-28 00:00:00,1928-08-12 00:00:00,Olympisch Stadion,2606,277,14,20
+1932,Summer,"Los Angeles, U.S.",37,1332,117,1932-07-30 00:00:00,1932-08-14 00:00:00,Los Angeles Memorial Coliseum,1206,126,14,20
+1936,Summer,"Berlin, Nazi Germany",49,3963,129,1936-08-01 00:00:00,1936-08-16 00:00:00,Olympiastadion,3632,331,19,25
+1948,Summer,"London, United Kingdom",59,4104,136,1948-07-29 00:00:00,1948-08-14 00:00:00,Wembley Stadium,3714,390,17,23
+1952,Summer,"Helsinki, Finland",69,4955,149,1952-07-19 00:00:00,1952-08-03 00:00:00,Helsingin Olympiastadion,4436,519,17,23
+1956,Summer,"Melbourne, Sweden",72,3314,151,1956-11-22 00:00:00,1956-12-08 00:00:00,Melbourne Cricket Ground,2938,376,17,23
+1960,Summer,"Rome, Italy",83,5338,150,1960-08-25 00:00:00,1960-09-11 00:00:00,Stadio Olimpico,4727,611,17,23
+1964,Summer,"Tokyo, Japan",93,5151,163,1964-10-10 00:00:00,1964-10-24 00:00:00,National Stadium,4473,678,19,25
+1968,Summer,"Mexico City, Mexico",112,5516,172,1968-10-12 00:00:00,1968-10-27 00:00:00,Estadio Olímpico Universitario,4735,781,18,24
+1972,Summer,"Munich, West Germany",121,7134,195,1972-08-26 00:00:00,1972-09-11 00:00:00,Olympiastadion,6075,1059,21,28
+1976,Summer,"Montreal, Canada",92,6084,198,1976-07-17 00:00:00,1976-08-01 00:00:00,Olympic Stadium,4824,1260,21,27
+1980,Summer,"Moscow, Soviet Union",80,5179,203,1980-07-19 00:00:00,1980-08-03 00:00:00,Grand Arena of the Central Lenin Stadium,4064,1115,21,27
+1984,Summer,"Los Angeles, United States",140,6829,221,1984-07-28 00:00:00,1984-08-12 00:00:00,Los Angeles Memorial Coliseum,5263,1566,21,29
+1988,Summer,"Seoul, South Korea",159,8391,237,1988-09-17 00:00:00,1988-10-02 00:00:00,Seoul Olympic Stadium,6197,2194,23,31
+1992,Summer,"Barcelona, Spain ",169,9356,257,1992-07-25 00:00:00,1992-08-09 00:00:00,Estadi Olímpic Lluís Companys,6652,2704,25,34
+1996,Summer,"Atlanta, United States",197,10320,271,1996-07-19 00:00:00,1996-08-04 00:00:00,Centennial Olympic Stadium,6797,3523,26,37
+2000,Summer,"Sydney, Australia",199,10651,300,2000-09-15 00:00:00,2000-10-01 00:00:00,Stadium Australia,6582,4069,28,40
+2004,Summer,"Athens, Greece",201,10625,301,2004-08-13 00:00:00,2004-08-29 00:00:00,Olympic Stadium,6296,4329,28,40
+2008,Summer,"Beijing, China",204,10942,302,2008-08-08 00:00:00,2008-08-24 00:00:00,Beijing National Stadium,6305,4637,28,41
+2012,Summer,"London, United Kingdom",204,10768,302,2012-07-27 00:00:00,2012-08-12 00:00:00,Olympic Stadium,5992,4776,26,39
+2016,Summer,"Rio de Janeiro, Brazil",207,11238,306,2016-08-05 00:00:00,2016-08-21 00:00:00,Maracanã Stadium,,,28,41
+2020,Summer,"Tokyo, Japan",206,11656,339,2020-07-23 20:21:00,2020-08-08 20:21:00,Japan National Stadium (known as Olympic Stadium during Games),,,33,50
+1924,Winter,"Chamonix, France",16,258,16,1924-01-25 00:00:00,1924-02-05 00:00:00,Stade Olympique de Chamonix,,,6,9
+1928,Winter,"St. Moritz, Switzerland",25,464,14,1928-02-11 00:00:00,1928-02-19 00:00:00,St. Moritz Olympic Ice Rink,438,26,4,8
+1932,Winter,"Lake Placid, United States",17,252,14,1932-02-04 00:00:00,1932-02-13 00:00:00,Olympic Stadium Lake Placid,231,21,4,7
+1936,Winter,"Garmisch-Partenkirchen, Germany",28,646,17,1936-02-06 00:00:00,1936-02-16 00:00:00,Große Olympiaschanze,566,80,4,8
+1948,Winter,"St. Moritz, Switzerland",28,669,22,1948-01-30 00:00:00,1948-02-08 00:00:00,St. Moritz Olympic Ice Rink,592,77,4,9
+1952,Winter,"Oslo, Norway",30,694,22,1952-02-14 00:00:00,1952-02-25 00:00:00,Bislett Stadium,585,109,4,8
+1956,Winter,"Cortina d'Ampezzo, Italy ",32,821,24,1956-01-26 00:00:00,1956-02-05 00:00:00,Stadio Olimpico Del Ghiaccio,687,134,4,8
+1960,Winter,"Squaw Valley, California,United States",30,665,27,1960-02-18 00:00:00,1960-02-28 00:00:00,Blyth Arena,521,144,4,8
+1964,Winter,"Innsbruck, Austria",36,1091,34,1964-01-29 00:00:00,1964-02-09 00:00:00,Bergisel,892,199,6,10
+1968,Winter,"Grenoble, France",37,1158,35,1968-02-06 00:00:00,1968-02-18 00:00:00,Opening Stadium,947,211,6,10
+1972,Winter,"Sapporo, Japan ",35,1006,35,1972-02-03 00:00:00,1972-02-13 00:00:00,Makomanai Open Stadium,801,205,6,10
+1976,Winter,"Innsbruck, Austria",37,1123,37,1976-02-04 00:00:00,1976-02-15 00:00:00,Bergisel,892,231,6,10
+1980,Winter,"Lake Placid, United States",37,1072,38,1980-02-13 00:00:00,1980-02-24 00:00:00,Lake Placid Equestrian Stadium,840,232,6,10
+1984,Winter,"Sarajevo, Yugoslavia",49,1272,39,1984-02-08 00:00:00,1984-02-19 00:00:00,Koševo Stadium,998,274,6,10
+1988,Winter,"Calgary, Canada",57,1423,46,1988-02-13 00:00:00,1988-02-28 00:00:00,McMahon Stadium,1122,301,6,10
+1992,Winter,"Albertville, France ",64,1801,57,1992-02-08 00:00:00,1992-02-23 00:00:00,Théâtre des Cérémonies,1313,488,6,12
+1994,Winter,"Lillehammer, Norway",67,1737,61,1994-02-12 00:00:00,1994-02-27 00:00:00,Lysgårdsbakken,1215,522,6,12
+1998,Winter,"Nagano, Japan",72,2176,68,1998-02-07 00:00:00,1998-02-22 00:00:00,Nagano Olympic Stadium,1389,787,7,14
+2002,Winter,"Salt Lake City, United States",78,2399,78,2002-02-08 00:00:00,2002-02-24 00:00:00,Rice–Eccles Stadium,1513,886,7,15
+2006,Winter,"Turin, Italy",80,2629,84,2006-02-10 00:00:00,2006-02-26 00:00:00,Stadio Olimpico Grande Torino,,,7,15
+2010,Winter,"Vancouver, Canada",82,2626,86,2010-02-12 00:00:00,2010-02-28 00:00:00,BC Place,,,7,15
+2014,Winter,"Sochi, Russia",88,2873,98,2014-02-07 00:00:00,2014-02-23 00:00:00,Fisht Olympic Stadium,,,7,15
+2018,Winter,"Pyeongchang, South Korea",93,2922,102,2018-02-09 00:00:00,2018-02-25 00:00:00,Pyeongchang Olympic Stadium,1680,1242,7,15
+2022,Winter,"Beijing, China",91,2871,109,2022-02-04 00:00:00,2022-02-20 00:00:00,Beijing National Stadium,,,7,15
